@@ -1,6 +1,4 @@
-### Hi, I'm Yannick! 👋
+### Hi 👋
 - I'm mostly coding in Python and Java
-
-### Contact
 - Email: yannick@gelbeinhalb.com
-- Discord: @gelbeinhalb
+- Discord: `@gelbeinhalb`
