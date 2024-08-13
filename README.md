@@ -12,6 +12,3 @@
   <tr><td><b>Tools</b></td><td><img src="https://skillicons.dev/icons?i=pycharm,idea,sublime,github,git"></td></tr>
   <tr><td><b>Operating Systems</b></td><td><img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,apple"></td></tr>
 </table>
-
-### Projects
-- [Minecraft Projects](https://github.com/GelbEinhalb-Minecraft/)
