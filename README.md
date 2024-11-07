@@ -3,7 +3,7 @@
 - I'm **18**
 
 ### Contact
-- E-Mail: yannick@gelbeinhalb.com
+- E-Mail: yannick@gelbeinhalb.de
 - Discord: `@gelbeinhalb`
 
 ### Strengths
