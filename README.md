@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi! 👋
+- My name is **Yannick**
+- I'm **18**
+- Read more at [gelbeinhalb.com](https://gelbeinhalb.com)
 
-<!--
-**GelbEinhalb/gelbeinhalb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Contact
+- E-Mail: yannick@gelbeinhalb.de
+- Discord: `@gelbeinhalb`
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Strengths
+<table>
+  <tr><td><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=python,java,cpp,bash"></td></tr>
+  <tr><td><b>Tools</b></td><td><img src="https://skillicons.dev/icons?i=pycharm,idea,clion,sublime,github,git"></td></tr>
+  <tr><td><b>OS</b></td><td><img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,apple"></td></tr>
+</table>
