@@ -1,7 +1,6 @@
 # Hi! 👋
 - My name is **Yannick**
-- I'm **18**
-- Read more at [gelbeinhalb.com](https://gelbeinhalb.com)
+- Read more at [gelbeinhalb.com](https://gelbeinhalb.com/)
 
 ### Contact
 - E-Mail: yannick@gelbeinhalb.de
