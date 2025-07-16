@@ -1,6 +1,6 @@
 # Hi! 👋
 - My name is **Yannick**
-- Read more at [gelbeinhalb.com](https://gelbeinhalb.com/)
+- Read more at [yannick-weigert.de](https://yannick-weigert.de/)
 
 ### Contact
 - E-Mail: yannick@gelbeinhalb.de
